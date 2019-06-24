@@ -1,0 +1,14 @@
+{
+  "name": "arcgis-proxy",
+  "version": "0.1.0",
+  "description": "Proxies ArcGIS online services with access token refreshing.",
+  "main": "server.js",
+  "repository": "https://github.com/stevage/arcgis-proxy",
+  "author": "Steve Bennett",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1"
+  }
+}
